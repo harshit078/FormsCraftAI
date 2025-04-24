@@ -11,7 +11,9 @@
 
 
 ## Introduction
-**FormsCraftAI** is an open-source tool designed to help generate forms and surveys with just a prompt using Gemini 2.0. The DORA metrics are a set of [four key values](https://dora.dev/guides/dora-metrics-four-keys/) that provide insights into software delivery performance and operational efficiency.
+**FormsCraftAI** is a dynamic web application designed to streamline the creation and management of online forms across multiple platforms. Leveraging the power of AI, users can effortlessly generate form structures from simple text prompts, eliminating the tedious manual setup process. This application supports seamless integration with popular form services like Google Forms, SurveyMonkey, and Typeform, providing a centralized platform for form creation.
+
+Users can input a description of their desired form, and FormsCraftAI intelligently translates this into structured questions and fields, automatically adapting to the specific requirements of the chosen platform. The intuitive interface ensures a smooth user experience, while robust authentication via Firebase guarantees secure access. Additionally, the application prioritizes mobile responsiveness, ensuring forms are accessible and functional on any device.
 
 ## 🚀 Features
 
