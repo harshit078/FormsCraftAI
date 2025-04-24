@@ -3,11 +3,11 @@
 <a href="https://www.formscraftai.me/"><img src="/public/logos.png"  width=600px></a>
 </p>
 
-<p align="center"><b>FormsCraftAI</b></p>
-<p align="center">A tool to generate forms and surveys with just a prompt using Gemini 2.0</p>
+<p align="center"><b>A tool to generate forms and surveys with just a prompt using Gemini 2.0</b></p>
 
 
-![demo video](/public/demo.gif)
+![demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/16770f92-574c-4e9b-b953-a2c892ba6176)
+
 
 
 ## Introduction
