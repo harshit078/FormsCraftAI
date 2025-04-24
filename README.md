@@ -1,15 +1,13 @@
 <br /><br />
 <p align="center">
-<a href="https://www.formscraftai.me/"><img src="/public/logos.png"  width=400px></a>
+<a href="https://www.formscraftai.me/"><img src="/public/logos.png"  width=600px></a>
 </p>
 
 <p align="center"><b>FormsCraftAI</b></p>
 <p align="center">A tool to generate forms and surveys with just a prompt using Gemini 2.0</p>
 
 
-<video autoplay loop muted playsinline>
-  <source src="/public/demo.mp4" type="video/mp4">
-</video>
+![demo video](/public/demo.gif)
 
 
 ## Introduction
