@@ -7,7 +7,9 @@
 <p align="center">A tool to generate forms and surveys with just a prompt using Gemini 2.0</p>
 
 
-![demo video](/public/demo.mp4)
+<video autoplay loop muted playsinline>
+  <source src="/public/demo.mp4" type="video/mp4">
+</video>
 
 
 ## Introduction
