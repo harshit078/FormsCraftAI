@@ -1,6 +1,6 @@
 <br /><br />
 <p align="center">
-<a href="https://www.formscraftai.me/"><img src="/public/logos.png"  width=400px></a>
+<a href="https://www.formscraftai.me/"><img src="/public/logos.png"  width=600px></a>
 </p>
 
 <p align="center"><b>FormsCraftAI</b></p>
